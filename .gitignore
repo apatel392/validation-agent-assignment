@@ -1,0 +1,22 @@
+Node.js
+
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
+
+Python
+
+backend/venv/
+backend/pycache/
+*.pyc
+*.pyo
+*.pyd
+
+Optional: Ignore the generated data files so you submit a clean slate
+
+backend/payloads.json
+backend/logs.jsonl
+
+OS generated files
+
+.DS_Store
